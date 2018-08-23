@@ -24,7 +24,7 @@ and verifying the hover and click using synchronized block per link on the div h
 ##### Steps to run
 <ol>
   <li>Create a new TestNG project in Eclipse</li>
-  <li>Follow steps from this <a href="https://www.guru99.com/all-about-testng-and-selenium.html" target="_blank">Tutorial</a> 
+  <li>Follow steps from this <a href="https://www.guru99.com/all-about-testng-and-selenium.html" target="_blank">Tutorial</a> to setup a TestNG project. 
   <li>Create a new package into src folder and name it seleniumtestpackage</li>
   <li>Copy all java files from this folder and import it into your newly created TestNG project/src/seleniumtestpackage</li>
   <li>Build the project</li>
