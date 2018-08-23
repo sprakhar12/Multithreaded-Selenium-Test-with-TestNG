@@ -13,8 +13,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Util {
 	
 	/* You can change the Path of Chrome based on your environment here */
-	public static final String loc = "C:\\chromedriver_win32\\chromedriver.exe";
+	public static final String loc = "C:\\chromedriver.exe";
 	
+	/* You can change the url path for AUT here */
 	public static final String url = "http://www.demo.guru99.com/test/yahoo.html";
 
 	// Time to wait when searching for a GUI element 
