@@ -3,7 +3,7 @@
 
 #### Description
 These code files will be using a mulithreaded approach to run the test in one go
-and verifying the hover and click using synchronized block per link on the div header with id "bd" in <a href="http://www.demo.guru99.com/test/yahoo.html" target="_blank">AUT</a>, which is taken from <a href="https://www.guru99.com/" target="_blank">Guru99</a>()
+and verifying the hover and click using synchronized block per link on the div header with id "bd" in <a href="http://www.demo.guru99.com/test/yahoo.html" target="_blank">AUT</a>, which is taken from <a href="https://www.guru99.com/" target="_blank">Guru99</a>
 
 ##### Important Notes
 <ul>
