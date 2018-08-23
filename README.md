@@ -12,9 +12,6 @@ and verifying the hover and click using synchronized block per link on the div h
   </li>
   <li>Can also add firefox path instead of chrome. <a href="https://www.guru99.com/first-webdriver-script.html" target="_blank">Learn more</a>
   </li>
-  <li>If someone wants to try different url for same test case, make sure to change the length of WebElement arrays 
-    as per their scenario
-  </li>
   <li>If someone wants to try different url for same test case, make sure to change the <strong>length of WebElement arrays</strong>
     , and also the <strong>findElement</strong> method as per their application scenarios.
   </li>
